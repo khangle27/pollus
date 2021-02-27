@@ -20,4 +20,4 @@ On Voting app, just a few moment later, after login with Torus
 ![Poll Example](./poll_example.png)
 
 ##### Notes
-As part of ETH London 2020 Hackathon
+As part of ETH London 2020 Hackathon.
